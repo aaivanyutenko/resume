@@ -7,7 +7,7 @@
     <script type="text/javascript" src="js/registration.js"></script>
 </head>
 <body>
-<table align="center">
+<table style="margin: 0 auto;">
     <tr>
         <th>
             <h3>Registration</h3>
