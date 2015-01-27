@@ -1,0 +1,7 @@
+input:not([type="radio"]) {
+    width: 100%;
+    padding-left: 1px;
+    height: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
