@@ -16,7 +16,7 @@
     </tr>
     <tr>
         <td>
-            <form action="register.php" method="POST">
+            <form action="register.php" method="POST" enctype="multipart/form-data">
                 <input
                     type="text"
                     name="firstname"
